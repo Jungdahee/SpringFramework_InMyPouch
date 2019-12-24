@@ -1,4 +1,4 @@
-:pouch: InMyPouch :pouch:
+:pouch: In My Pouch :pouch:
 =========================
 
 # 프로젝트 개요
