@@ -18,3 +18,4 @@
 * Spring Tool Suite
 * MySQL
 * Apache Tomcat
+* JDK 1.8
