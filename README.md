@@ -15,7 +15,7 @@
 * 알레르기, 민감 성분을 등록할 수 있다.
 
 ## 개발 환경
-* Spring Tool Suite
+* Spring boot
 * MySQL
 * Apache Tomcat
 * JDK 1.8
