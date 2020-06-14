@@ -20,5 +20,5 @@
 * Apache Tomcat
 * JDK 1.8
 * Mybatis
-* Vue
+* Vue.js
 
